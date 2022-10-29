@@ -27,3 +27,4 @@ The console willl perform the following tasks:
 ## Authors :black_nib:
 
 * **Sunday JIMOH** <[sunday4me]((https://github.com/sunday4me)>
+* **Temitope Sam** <[Temitopesam1](https://github.com/Temitopesam1)>
