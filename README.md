@@ -130,5 +130,8 @@ HBnB - version 9.6
 To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
-* **Sunday JIMOH** <[sunday4me]((https://github.com/sunday4me)>
-* **Temitope Sam** <[Temitopesam1](https://github.com/Temitopesam1)>
+Ehoneah Obed | Email: [ehoneahobed](mailto:ehoneahobed@hotmail.com) 
+
+Anthony Etim | Github: [otoobongekim](mailto:otoobongekim@gmail.com)
+* **Sunday JIMOH** [sunday4me]((https://github.com/sunday4me)
+* **Temitope Sam** [Temitopesam1](https://github.com/Temitopesam1)
